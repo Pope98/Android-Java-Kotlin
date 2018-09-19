@@ -46,5 +46,6 @@ Description:
 If you click on a photo, a selected photo will be fitted in a new window.
 
 !! If program doesn't run, try creating a new folder 'images' in project directory dogs1.
+Requirements to run this program : java jdk
 
 Made by Povilas Petrauskas 2018-09-19
